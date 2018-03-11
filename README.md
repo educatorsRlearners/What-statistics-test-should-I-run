@@ -1,5 +1,6 @@
 What statistics test should I run?
-Program which guides the user through the process of deciding which statistical test they should run. 
+
+This program guides the user through the process of deciding which statistical test they should run. 
 
 To run this program, 
 
